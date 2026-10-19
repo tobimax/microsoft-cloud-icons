@@ -1,5 +1,5 @@
 {
-  "totalIcons": 79,
+  "totalIcons": 136,
   "formats": [
     "svg",
     "png"
@@ -44,7 +44,7 @@
     {
       "id": "fabric",
       "name": "Fabric",
-      "count": 1
+      "count": 58
     },
     {
       "id": "other",
@@ -700,6 +700,519 @@
       "description": "Unified data analytics platform combining data engineering, warehousing, science, and real-time analytics in one SaaS experience.",
       "svg": "icons/fabric/fabric.svg",
       "png": "icons/fabric/fabric.png"
+    },
+    {
+      "id": "action",
+      "name": "Action",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "An action item in a Fabric workspace, representing an executable step or operation.",
+      "svg": "icons/fabric/action.svg",
+      "png": "icons/fabric/action.png"
+    },
+    {
+      "id": "apps",
+      "name": "Apps",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "A Fabric app, a packaged collection of reports and dashboards distributed to consumers.",
+      "svg": "icons/fabric/apps.svg",
+      "png": "icons/fabric/apps.png"
+    },
+    {
+      "id": "cohort",
+      "name": "Cohort",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "A patient or population cohort defined in Fabric healthcare data solutions.",
+      "svg": "icons/fabric/cohort.svg",
+      "png": "icons/fabric/cohort.png"
+    },
+    {
+      "id": "copy-job",
+      "name": "Copy Job",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Data Factory copy job for simple, repeatable data movement from source to destination.",
+      "svg": "icons/fabric/copy-job.svg",
+      "png": "icons/fabric/copy-job.png"
+    },
+    {
+      "id": "custom-streaming-connector",
+      "name": "Custom Streaming Connector",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "A custom connector that brings an external streaming source into an eventstream.",
+      "svg": "icons/fabric/custom-streaming-connector.svg",
+      "png": "icons/fabric/custom-streaming-connector.png"
+    },
+    {
+      "id": "dashboard",
+      "name": "Dashboard",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Power BI dashboard, a single-page canvas of pinned visuals from one or more reports.",
+      "svg": "icons/fabric/dashboard.svg",
+      "png": "icons/fabric/dashboard.png"
+    },
+    {
+      "id": "data-agent",
+      "name": "Data Agent",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Fabric data agent, a conversational AI agent that answers questions over workspace data.",
+      "svg": "icons/fabric/data-agent.svg",
+      "png": "icons/fabric/data-agent.png"
+    },
+    {
+      "id": "data-factory",
+      "name": "Data Factory",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Data Factory in Fabric, the data integration workload for pipelines, dataflows and copy jobs.",
+      "svg": "icons/fabric/data-factory.svg",
+      "png": "icons/fabric/data-factory.png"
+    },
+    {
+      "id": "data-quality",
+      "name": "Data Quality",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Data quality item for defining and monitoring quality rules over Fabric data.",
+      "svg": "icons/fabric/data-quality.svg",
+      "png": "icons/fabric/data-quality.png"
+    },
+    {
+      "id": "data-warehouse",
+      "name": "Warehouse",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Fabric Warehouse, a lake-centric SQL data warehouse with full T-SQL support.",
+      "svg": "icons/fabric/data-warehouse.svg",
+      "png": "icons/fabric/data-warehouse.png"
+    },
+    {
+      "id": "dataflow",
+      "name": "Dataflow",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Dataflow, a Power Query based item for ingesting and transforming data.",
+      "svg": "icons/fabric/dataflow.svg",
+      "png": "icons/fabric/dataflow.png"
+    },
+    {
+      "id": "dataflow-gen2",
+      "name": "Dataflow Gen2",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Dataflow Gen2, the Fabric generation of Power Query dataflows with output destinations.",
+      "svg": "icons/fabric/dataflow-gen2.svg",
+      "png": "icons/fabric/dataflow-gen2.png"
+    },
+    {
+      "id": "datamart",
+      "name": "Datamart",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Datamart, a self-service relational database for small-scale analytics in Power BI.",
+      "svg": "icons/fabric/datamart.svg",
+      "png": "icons/fabric/datamart.png"
+    },
+    {
+      "id": "environment",
+      "name": "Environment",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Fabric environment, a shared configuration of Spark compute, libraries and settings.",
+      "svg": "icons/fabric/environment.svg",
+      "png": "icons/fabric/environment.png"
+    },
+    {
+      "id": "event-house",
+      "name": "Eventhouse",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Eventhouse, the Real-Time Intelligence store that hosts one or more KQL databases.",
+      "svg": "icons/fabric/event-house.svg",
+      "png": "icons/fabric/event-house.png"
+    },
+    {
+      "id": "eventstream",
+      "name": "Eventstream",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Eventstream, a no-code item for capturing, transforming and routing real-time events.",
+      "svg": "icons/fabric/eventstream.svg",
+      "png": "icons/fabric/eventstream.png"
+    },
+    {
+      "id": "experiments",
+      "name": "ML Experiment",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "ML experiment, a container for tracking machine learning runs and their metrics.",
+      "svg": "icons/fabric/experiments.svg",
+      "png": "icons/fabric/experiments.png"
+    },
+    {
+      "id": "exploration",
+      "name": "Exploration",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Exploration, an ad-hoc data exploration item over a semantic model.",
+      "svg": "icons/fabric/exploration.svg",
+      "png": "icons/fabric/exploration.png"
+    },
+    {
+      "id": "external-dataflow",
+      "name": "External Dataflow",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "A dataflow that lives in another workspace or tenant, referenced from this one.",
+      "svg": "icons/fabric/external-dataflow.svg",
+      "png": "icons/fabric/external-dataflow.png"
+    },
+    {
+      "id": "external-datamart",
+      "name": "External Datamart",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "A datamart that lives in another workspace or tenant, referenced from this one.",
+      "svg": "icons/fabric/external-datamart.svg",
+      "png": "icons/fabric/external-datamart.png"
+    },
+    {
+      "id": "external-semantic-model",
+      "name": "External Semantic Model",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "A semantic model that lives in another workspace or tenant, referenced from this one.",
+      "svg": "icons/fabric/external-semantic-model.svg",
+      "png": "icons/fabric/external-semantic-model.png"
+    },
+    {
+      "id": "fabric-apps",
+      "name": "Fabric Apps",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Fabric apps, packaged solutions built on Fabric workloads.",
+      "svg": "icons/fabric/fabric-apps.svg",
+      "png": "icons/fabric/fabric-apps.png"
+    },
+    {
+      "id": "feature-store",
+      "name": "Feature Store",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Feature store for registering, sharing and serving machine learning features.",
+      "svg": "icons/fabric/feature-store.svg",
+      "png": "icons/fabric/feature-store.png"
+    },
+    {
+      "id": "healthcare",
+      "name": "Healthcare Data Solutions",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Healthcare data solutions in Fabric, for unifying clinical and operational data.",
+      "svg": "icons/fabric/healthcare.svg",
+      "png": "icons/fabric/healthcare.png"
+    },
+    {
+      "id": "kql-database",
+      "name": "KQL Database",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "KQL database, a Kusto database inside an eventhouse for time-series and log analytics.",
+      "svg": "icons/fabric/kql-database.svg",
+      "png": "icons/fabric/kql-database.png"
+    },
+    {
+      "id": "kql-queryset",
+      "name": "KQL Queryset",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "KQL queryset, a saved collection of Kusto queries over a KQL database.",
+      "svg": "icons/fabric/kql-queryset.svg",
+      "png": "icons/fabric/kql-queryset.png"
+    },
+    {
+      "id": "kql-script",
+      "name": "KQL Script",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "KQL script, a saved Kusto management or query script.",
+      "svg": "icons/fabric/kql-script.svg",
+      "png": "icons/fabric/kql-script.png"
+    },
+    {
+      "id": "lakehouse",
+      "name": "Lakehouse",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Lakehouse, a Delta-based data architecture combining data lake storage with SQL analytics.",
+      "svg": "icons/fabric/lakehouse.svg",
+      "png": "icons/fabric/lakehouse.png"
+    },
+    {
+      "id": "links",
+      "name": "Links",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Links, a collection of saved references to related Fabric items.",
+      "svg": "icons/fabric/links.svg",
+      "png": "icons/fabric/links.png"
+    },
+    {
+      "id": "metric-sets",
+      "name": "Metric Set",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Metric set, a governed collection of reusable business metrics defined on a semantic model.",
+      "svg": "icons/fabric/metric-sets.svg",
+      "png": "icons/fabric/metric-sets.png"
+    },
+    {
+      "id": "mirrored-catalog",
+      "name": "Mirrored Catalog",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Mirrored catalog, a continuously replicated external data catalog in OneLake.",
+      "svg": "icons/fabric/mirrored-catalog.svg",
+      "png": "icons/fabric/mirrored-catalog.png"
+    },
+    {
+      "id": "mirrored-generic-database",
+      "name": "Mirrored Database",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Mirrored database, a near real-time replica of an external database in OneLake.",
+      "svg": "icons/fabric/mirrored-generic-database.svg",
+      "png": "icons/fabric/mirrored-generic-database.png"
+    },
+    {
+      "id": "mirrored-generic-storage",
+      "name": "Mirrored Storage",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Mirrored storage, a near real-time replica of external storage in OneLake.",
+      "svg": "icons/fabric/mirrored-generic-storage.svg",
+      "png": "icons/fabric/mirrored-generic-storage.png"
+    },
+    {
+      "id": "mobile-report",
+      "name": "Mobile Report",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Mobile report, a Power BI report laid out for phone screens.",
+      "svg": "icons/fabric/mobile-report.svg",
+      "png": "icons/fabric/mobile-report.png"
+    },
+    {
+      "id": "model",
+      "name": "ML Model",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "ML model, a registered machine learning model with versions tracked in Fabric.",
+      "svg": "icons/fabric/model.svg",
+      "png": "icons/fabric/model.png"
+    },
+    {
+      "id": "notebook",
+      "name": "Notebook",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Notebook, an interactive Spark notebook for data engineering and data science.",
+      "svg": "icons/fabric/notebook.svg",
+      "png": "icons/fabric/notebook.png"
+    },
+    {
+      "id": "ontology",
+      "name": "Ontology",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Ontology, a semantic layer that defines entities and relationships over Fabric data.",
+      "svg": "icons/fabric/ontology.svg",
+      "png": "icons/fabric/ontology.png"
+    },
+    {
+      "id": "operations-agent",
+      "name": "Operations Agent",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Operations agent, an AI agent that monitors and acts on operational data in Fabric.",
+      "svg": "icons/fabric/operations-agent.svg",
+      "png": "icons/fabric/operations-agent.png"
+    },
+    {
+      "id": "paginated-report",
+      "name": "Paginated Report",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Paginated report, a pixel-perfect, print-ready report built with Report Builder.",
+      "svg": "icons/fabric/paginated-report.svg",
+      "png": "icons/fabric/paginated-report.png"
+    },
+    {
+      "id": "pipeline",
+      "name": "Pipeline",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Data pipeline, an orchestration item for scheduling and chaining data activities.",
+      "svg": "icons/fabric/pipeline.svg",
+      "png": "icons/fabric/pipeline.png"
+    },
+    {
+      "id": "planning",
+      "name": "Planning",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Planning, the Fabric item for business planning and forecasting scenarios.",
+      "svg": "icons/fabric/planning.svg",
+      "png": "icons/fabric/planning.png"
+    },
+    {
+      "id": "rdl-report",
+      "name": "RDL Report",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "RDL report, a Report Definition Language report hosted in Fabric.",
+      "svg": "icons/fabric/rdl-report.svg",
+      "png": "icons/fabric/rdl-report.png"
+    },
+    {
+      "id": "real-time-dashboard",
+      "name": "Real-Time Dashboard",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Real-Time dashboard, a live tile-based view over KQL data in Real-Time Intelligence.",
+      "svg": "icons/fabric/real-time-dashboard.svg",
+      "png": "icons/fabric/real-time-dashboard.png"
+    },
+    {
+      "id": "report",
+      "name": "Report",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Power BI report, an interactive multi-page view of a semantic model.",
+      "svg": "icons/fabric/report.svg",
+      "png": "icons/fabric/report.png"
+    },
+    {
+      "id": "retail",
+      "name": "Retail Data Solutions",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Retail data solutions in Fabric, for unifying retail and commerce data.",
+      "svg": "icons/fabric/retail.svg",
+      "png": "icons/fabric/retail.png"
+    },
+    {
+      "id": "runtime-lineage",
+      "name": "Runtime Lineage",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Runtime lineage, the recorded data flow between items as jobs actually ran.",
+      "svg": "icons/fabric/runtime-lineage.svg",
+      "png": "icons/fabric/runtime-lineage.png"
+    },
+    {
+      "id": "schema-model",
+      "name": "Schema Model",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Schema model, a shared schema definition used across Fabric data items.",
+      "svg": "icons/fabric/schema-model.svg",
+      "png": "icons/fabric/schema-model.png"
+    },
+    {
+      "id": "scorecard",
+      "name": "Scorecard",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Scorecard, a Power BI item for tracking goals and metrics against targets.",
+      "svg": "icons/fabric/scorecard.svg",
+      "png": "icons/fabric/scorecard.png"
+    },
+    {
+      "id": "semantic-model",
+      "name": "Semantic Model",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Semantic model, the Power BI dataset that defines tables, relationships and measures.",
+      "svg": "icons/fabric/semantic-model.svg",
+      "png": "icons/fabric/semantic-model.png"
+    },
+    {
+      "id": "shared-semantic-model",
+      "name": "Shared Semantic Model",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "A semantic model shared from another workspace.",
+      "svg": "icons/fabric/shared-semantic-model.svg",
+      "png": "icons/fabric/shared-semantic-model.png"
+    },
+    {
+      "id": "spark-job-direction",
+      "name": "Spark Job Definition",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Spark job definition, a batch Spark job submitted to the Fabric runtime.",
+      "svg": "icons/fabric/spark-job-direction.svg",
+      "png": "icons/fabric/spark-job-direction.png"
+    },
+    {
+      "id": "sql-database",
+      "name": "SQL Database",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "SQL database in Fabric, a developer-friendly transactional database built on SQL Server.",
+      "svg": "icons/fabric/sql-database.svg",
+      "png": "icons/fabric/sql-database.png"
+    },
+    {
+      "id": "streaming-dataflow",
+      "name": "Streaming Dataflow",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Streaming dataflow, a dataflow that transforms streaming data in Power BI.",
+      "svg": "icons/fabric/streaming-dataflow.svg",
+      "png": "icons/fabric/streaming-dataflow.png"
+    },
+    {
+      "id": "streaming-semantic-model",
+      "name": "Streaming Semantic Model",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Streaming semantic model, a Power BI dataset fed by real-time streaming data.",
+      "svg": "icons/fabric/streaming-semantic-model.svg",
+      "png": "icons/fabric/streaming-semantic-model.png"
+    },
+    {
+      "id": "sustainability",
+      "name": "Sustainability Data Solutions",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Sustainability data solutions in Fabric, for ESG and emissions data.",
+      "svg": "icons/fabric/sustainability.svg",
+      "png": "icons/fabric/sustainability.png"
+    },
+    {
+      "id": "user-data-functions",
+      "name": "User Data Functions",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "User data functions, serverless functions that run custom logic over Fabric data.",
+      "svg": "icons/fabric/user-data-functions.svg",
+      "png": "icons/fabric/user-data-functions.png"
+    },
+    {
+      "id": "variable-library",
+      "name": "Variable Library",
+      "category": "fabric",
+      "categoryName": "Fabric",
+      "description": "Variable library, a set of workspace variables used to parameterise other items.",
+      "svg": "icons/fabric/variable-library.svg",
+      "png": "icons/fabric/variable-library.png"
     },
     {
       "id": "edge",

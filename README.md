@@ -5,7 +5,7 @@ One icon per product — clean, consistent, ready to use.
 
 **👉 [Browse the icon collection live](https://damobird365.github.io/microsoft-cloud-icons/)**
 
-**79 product icons** across **9 categories**
+**136 product icons** across **9 categories**
 
 ## Quick Reference
 
@@ -18,7 +18,7 @@ One icon per product — clean, consistent, ready to use.
 | Entra | 4 | Entra ID, Entra ID Governance, Entra Verified ID, Microsoft Entra |
 | Security | 2 | Defender, Purview |
 | Viva | 9 | Viva Amplify, Viva Connections, Viva Engage, Viva Glint, Viva Home, Viva Insights, Viva Learning, Viva Pulse, Viva Suite |
-| Fabric | 1 | Microsoft Fabric |
+| Fabric | 58 | Microsoft Fabric, Action, Apps, Cohort, Copy Job, Custom Streaming Connector, Dashboard, Data Agent, Data Factory, Data Quality, Warehouse, Dataflow, Dataflow Gen2, Datamart, Environment, Eventhouse, Eventstream, ML Experiment, Exploration, External Dataflow, External Datamart, External Semantic Model, Fabric Apps, Feature Store, Healthcare Data Solutions, KQL Database, KQL Queryset, KQL Script, Lakehouse, Links, Metric Set, Mirrored Catalog, Mirrored Database, Mirrored Storage, Mobile Report, ML Model, Notebook, Ontology, Operations Agent, Paginated Report, Pipeline, Planning, RDL Report, Real-Time Dashboard, Report, Retail Data Solutions, Runtime Lineage, Schema Model, Scorecard, Semantic Model, Shared Semantic Model, Spark Job Definition, SQL Database, Streaming Dataflow, Streaming Semantic Model, Sustainability Data Solutions, User Data Functions, Variable Library |
 | Other | 7 | Admin Center, Bing, Designer, Family Safety, Microsoft Edge, Microsoft Foundry, Office |
 
 ## All Icons
@@ -134,6 +134,63 @@ One icon per product — clean, consistent, ready to use.
 | Icon | Product | File |
 |------|---------|------|
 | <img src="icons/fabric/fabric.svg" width="32" /> | **Microsoft Fabric** | `icons/fabric/fabric.svg` |
+| <img src="icons/fabric/action.svg" width="32" /> | **Action** | `icons/fabric/action.svg` |
+| <img src="icons/fabric/apps.svg" width="32" /> | **Apps** | `icons/fabric/apps.svg` |
+| <img src="icons/fabric/cohort.svg" width="32" /> | **Cohort** | `icons/fabric/cohort.svg` |
+| <img src="icons/fabric/copy-job.svg" width="32" /> | **Copy Job** | `icons/fabric/copy-job.svg` |
+| <img src="icons/fabric/custom-streaming-connector.svg" width="32" /> | **Custom Streaming Connector** | `icons/fabric/custom-streaming-connector.svg` |
+| <img src="icons/fabric/dashboard.svg" width="32" /> | **Dashboard** | `icons/fabric/dashboard.svg` |
+| <img src="icons/fabric/data-agent.svg" width="32" /> | **Data Agent** | `icons/fabric/data-agent.svg` |
+| <img src="icons/fabric/data-factory.svg" width="32" /> | **Data Factory** | `icons/fabric/data-factory.svg` |
+| <img src="icons/fabric/data-quality.svg" width="32" /> | **Data Quality** | `icons/fabric/data-quality.svg` |
+| <img src="icons/fabric/data-warehouse.svg" width="32" /> | **Warehouse** | `icons/fabric/data-warehouse.svg` |
+| <img src="icons/fabric/dataflow.svg" width="32" /> | **Dataflow** | `icons/fabric/dataflow.svg` |
+| <img src="icons/fabric/dataflow-gen2.svg" width="32" /> | **Dataflow Gen2** | `icons/fabric/dataflow-gen2.svg` |
+| <img src="icons/fabric/datamart.svg" width="32" /> | **Datamart** | `icons/fabric/datamart.svg` |
+| <img src="icons/fabric/environment.svg" width="32" /> | **Environment** | `icons/fabric/environment.svg` |
+| <img src="icons/fabric/event-house.svg" width="32" /> | **Eventhouse** | `icons/fabric/event-house.svg` |
+| <img src="icons/fabric/eventstream.svg" width="32" /> | **Eventstream** | `icons/fabric/eventstream.svg` |
+| <img src="icons/fabric/experiments.svg" width="32" /> | **ML Experiment** | `icons/fabric/experiments.svg` |
+| <img src="icons/fabric/exploration.svg" width="32" /> | **Exploration** | `icons/fabric/exploration.svg` |
+| <img src="icons/fabric/external-dataflow.svg" width="32" /> | **External Dataflow** | `icons/fabric/external-dataflow.svg` |
+| <img src="icons/fabric/external-datamart.svg" width="32" /> | **External Datamart** | `icons/fabric/external-datamart.svg` |
+| <img src="icons/fabric/external-semantic-model.svg" width="32" /> | **External Semantic Model** | `icons/fabric/external-semantic-model.svg` |
+| <img src="icons/fabric/fabric-apps.svg" width="32" /> | **Fabric Apps** | `icons/fabric/fabric-apps.svg` |
+| <img src="icons/fabric/feature-store.svg" width="32" /> | **Feature Store** | `icons/fabric/feature-store.svg` |
+| <img src="icons/fabric/healthcare.svg" width="32" /> | **Healthcare Data Solutions** | `icons/fabric/healthcare.svg` |
+| <img src="icons/fabric/kql-database.svg" width="32" /> | **KQL Database** | `icons/fabric/kql-database.svg` |
+| <img src="icons/fabric/kql-queryset.svg" width="32" /> | **KQL Queryset** | `icons/fabric/kql-queryset.svg` |
+| <img src="icons/fabric/kql-script.svg" width="32" /> | **KQL Script** | `icons/fabric/kql-script.svg` |
+| <img src="icons/fabric/lakehouse.svg" width="32" /> | **Lakehouse** | `icons/fabric/lakehouse.svg` |
+| <img src="icons/fabric/links.svg" width="32" /> | **Links** | `icons/fabric/links.svg` |
+| <img src="icons/fabric/metric-sets.svg" width="32" /> | **Metric Set** | `icons/fabric/metric-sets.svg` |
+| <img src="icons/fabric/mirrored-catalog.svg" width="32" /> | **Mirrored Catalog** | `icons/fabric/mirrored-catalog.svg` |
+| <img src="icons/fabric/mirrored-generic-database.svg" width="32" /> | **Mirrored Database** | `icons/fabric/mirrored-generic-database.svg` |
+| <img src="icons/fabric/mirrored-generic-storage.svg" width="32" /> | **Mirrored Storage** | `icons/fabric/mirrored-generic-storage.svg` |
+| <img src="icons/fabric/mobile-report.svg" width="32" /> | **Mobile Report** | `icons/fabric/mobile-report.svg` |
+| <img src="icons/fabric/model.svg" width="32" /> | **ML Model** | `icons/fabric/model.svg` |
+| <img src="icons/fabric/notebook.svg" width="32" /> | **Notebook** | `icons/fabric/notebook.svg` |
+| <img src="icons/fabric/ontology.svg" width="32" /> | **Ontology** | `icons/fabric/ontology.svg` |
+| <img src="icons/fabric/operations-agent.svg" width="32" /> | **Operations Agent** | `icons/fabric/operations-agent.svg` |
+| <img src="icons/fabric/paginated-report.svg" width="32" /> | **Paginated Report** | `icons/fabric/paginated-report.svg` |
+| <img src="icons/fabric/pipeline.svg" width="32" /> | **Pipeline** | `icons/fabric/pipeline.svg` |
+| <img src="icons/fabric/planning.svg" width="32" /> | **Planning** | `icons/fabric/planning.svg` |
+| <img src="icons/fabric/rdl-report.svg" width="32" /> | **RDL Report** | `icons/fabric/rdl-report.svg` |
+| <img src="icons/fabric/real-time-dashboard.svg" width="32" /> | **Real-Time Dashboard** | `icons/fabric/real-time-dashboard.svg` |
+| <img src="icons/fabric/report.svg" width="32" /> | **Report** | `icons/fabric/report.svg` |
+| <img src="icons/fabric/retail.svg" width="32" /> | **Retail Data Solutions** | `icons/fabric/retail.svg` |
+| <img src="icons/fabric/runtime-lineage.svg" width="32" /> | **Runtime Lineage** | `icons/fabric/runtime-lineage.svg` |
+| <img src="icons/fabric/schema-model.svg" width="32" /> | **Schema Model** | `icons/fabric/schema-model.svg` |
+| <img src="icons/fabric/scorecard.svg" width="32" /> | **Scorecard** | `icons/fabric/scorecard.svg` |
+| <img src="icons/fabric/semantic-model.svg" width="32" /> | **Semantic Model** | `icons/fabric/semantic-model.svg` |
+| <img src="icons/fabric/shared-semantic-model.svg" width="32" /> | **Shared Semantic Model** | `icons/fabric/shared-semantic-model.svg` |
+| <img src="icons/fabric/spark-job-direction.svg" width="32" /> | **Spark Job Definition** | `icons/fabric/spark-job-direction.svg` |
+| <img src="icons/fabric/sql-database.svg" width="32" /> | **SQL Database** | `icons/fabric/sql-database.svg` |
+| <img src="icons/fabric/streaming-dataflow.svg" width="32" /> | **Streaming Dataflow** | `icons/fabric/streaming-dataflow.svg` |
+| <img src="icons/fabric/streaming-semantic-model.svg" width="32" /> | **Streaming Semantic Model** | `icons/fabric/streaming-semantic-model.svg` |
+| <img src="icons/fabric/sustainability.svg" width="32" /> | **Sustainability Data Solutions** | `icons/fabric/sustainability.svg` |
+| <img src="icons/fabric/user-data-functions.svg" width="32" /> | **User Data Functions** | `icons/fabric/user-data-functions.svg` |
+| <img src="icons/fabric/variable-library.svg" width="32" /> | **Variable Library** | `icons/fabric/variable-library.svg` |
 
 ### Other
 
