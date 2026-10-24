@@ -222,6 +222,15 @@
       margin-bottom: 0.15rem;
     }
 
+    .icon-info h3 a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .icon-info h3 a:hover {
+      text-decoration: underline;
+    }
+
     .icon-info p {
       font-size: 0.78rem;
       color: var(--text-muted);
@@ -404,112 +413,112 @@ const CATEGORIES = [
     id: "microsoft-365",
     name: "Microsoft 365",
     icons: [
-      { id: "word", name: "Word", desc: "Word processor for creating, editing, and sharing documents with rich formatting and collaboration features." },
-      { id: "excel", name: "Excel", desc: "Spreadsheet application for data analysis, calculations, charts, and business intelligence." },
-      { id: "powerpoint", name: "PowerPoint", desc: "Presentation tool for creating slide decks with animations, transitions, and design templates." },
-      { id: "outlook", name: "Outlook", desc: "Email, calendar, and contacts application for communication and scheduling." },
-      { id: "teams", name: "Teams", desc: "Collaboration hub for chat, video meetings, file sharing, and app integration." },
-      { id: "sharepoint", name: "SharePoint", desc: "Intranet and content management platform for team sites, document libraries, and workflows." },
-      { id: "onedrive", name: "OneDrive", desc: "Cloud storage service for saving, syncing, and sharing files across devices." },
-      { id: "onenote", name: "OneNote", desc: "Digital notebook for capturing and organising notes, drawings, and clippings." },
-      { id: "access", name: "Access", desc: "Desktop database application for building custom database solutions and forms." },
+      { id: "word", name: "Word", desc: "Word processor for creating, editing, and sharing documents with rich formatting and collaboration features.", url: "https://www.microsoft.com/microsoft-365/word" },
+      { id: "excel", name: "Excel", desc: "Spreadsheet application for data analysis, calculations, charts, and business intelligence.", url: "https://www.microsoft.com/microsoft-365/excel" },
+      { id: "powerpoint", name: "PowerPoint", desc: "Presentation tool for creating slide decks with animations, transitions, and design templates.", url: "https://www.microsoft.com/microsoft-365/powerpoint" },
+      { id: "outlook", name: "Outlook", desc: "Email, calendar, and contacts application for communication and scheduling.", url: "https://www.microsoft.com/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook" },
+      { id: "teams", name: "Teams", desc: "Collaboration hub for chat, video meetings, file sharing, and app integration.", url: "https://learn.microsoft.com/microsoftteams/teams-overview" },
+      { id: "sharepoint", name: "SharePoint", desc: "Intranet and content management platform for team sites, document libraries, and workflows.", url: "https://learn.microsoft.com/sharepoint/introduction" },
+      { id: "onedrive", name: "OneDrive", desc: "Cloud storage service for saving, syncing, and sharing files across devices.", url: "https://learn.microsoft.com/onedrive/" },
+      { id: "onenote", name: "OneNote", desc: "Digital notebook for capturing and organising notes, drawings, and clippings.", url: "https://www.microsoft.com/microsoft-365/onenote/digital-note-taking-app" },
+      { id: "access", name: "Access", desc: "Desktop database application for building custom database solutions and forms.", url: "https://www.microsoft.com/microsoft-365/access" },
       { id: "publisher", name: "Publisher", desc: "Desktop publishing tool for creating professional layouts like newsletters, flyers, and brochures." },
-      { id: "visio", name: "Visio", desc: "Diagramming tool for flowcharts, org charts, floor plans, and network diagrams." },
-      { id: "project", name: "Project", desc: "Project management tool for scheduling, resource allocation, and tracking project progress." },
-      { id: "loop", name: "Loop", desc: "Co-creation app with portable components that sync across Microsoft 365 apps in real time." },
-      { id: "lists", name: "Lists", desc: "Smart tracking app for organising information with customisable views, rules, and alerts." },
-      { id: "forms", name: "Forms", desc: "Survey and quiz builder for collecting feedback, registrations, and responses." },
-      { id: "planner", name: "Planner", desc: "Task management app for creating plans, assigning tasks, and tracking team progress with visual boards." },
-      { id: "stream", name: "Stream", desc: "Enterprise video service for uploading, sharing, and managing video content securely." },
-      { id: "clipchamp", name: "Clipchamp", desc: "Video editor for creating and editing videos with templates, effects, and screen recording." },
+      { id: "visio", name: "Visio", desc: "Diagramming tool for flowcharts, org charts, floor plans, and network diagrams.", url: "https://www.microsoft.com/microsoft-365/visio" },
+      { id: "project", name: "Project", desc: "Project management tool for scheduling, resource allocation, and tracking project progress.", url: "https://learn.microsoft.com/project/" },
+      { id: "loop", name: "Loop", desc: "Co-creation app with portable components that sync across Microsoft 365 apps in real time.", url: "https://adoption.microsoft.com/microsoft-loop/" },
+      { id: "lists", name: "Lists", desc: "Smart tracking app for organising information with customisable views, rules, and alerts.", url: "https://www.microsoft.com/microsoft-365/microsoft-lists" },
+      { id: "forms", name: "Forms", desc: "Survey and quiz builder for collecting feedback, registrations, and responses.", url: "https://www.microsoft.com/microsoft-365/online-surveys-polls-quizzes" },
+      { id: "planner", name: "Planner", desc: "Task management app for creating plans, assigning tasks, and tracking team progress with visual boards.", url: "https://www.microsoft.com/microsoft-365/planner/microsoft-planner" },
+      { id: "stream", name: "Stream", desc: "Enterprise video service for uploading, sharing, and managing video content securely.", url: "https://learn.microsoft.com/office365/servicedescriptions/microsoft-stream" },
+      { id: "clipchamp", name: "Clipchamp", desc: "Video editor for creating and editing videos with templates, effects, and screen recording.", url: "https://www.microsoft.com/microsoft-365/clipchamp" },
       { id: "sway", name: "Sway", desc: "Interactive presentation and storytelling app that creates polished, responsive web-based content." },
-      { id: "bookings", name: "Bookings", desc: "Online scheduling tool that lets customers book appointments and meetings directly." },
-      { id: "todo", name: "To Do", desc: "Personal task management app for organising daily tasks with smart suggestions and My Day planning." },
-      { id: "whiteboard", name: "Whiteboard", desc: "Digital canvas for visual collaboration, brainstorming, and ideation in meetings." },
-      { id: "delve", name: "Delve", desc: "Content discovery tool that surfaces relevant documents and content from across your organisation." },
-      { id: "places", name: "Places", desc: "Workplace coordination app for managing hybrid work, room booking, and office presence." },
+      { id: "bookings", name: "Bookings", desc: "Online scheduling tool that lets customers book appointments and meetings directly.", url: "https://learn.microsoft.com/microsoft-365/bookings/bookings-overview" },
+      { id: "todo", name: "To Do", desc: "Personal task management app for organising daily tasks with smart suggestions and My Day planning.", url: "https://www.microsoft.com/microsoft-365/microsoft-to-do-list-app" },
+      { id: "whiteboard", name: "Whiteboard", desc: "Digital canvas for visual collaboration, brainstorming, and ideation in meetings.", url: "https://www.microsoft.com/microsoft-365/microsoft-whiteboard/digital-whiteboard-app" },
+      { id: "delve", name: "Delve", desc: "Content discovery tool that surfaces relevant documents and content from across your organisation.", url: "https://learn.microsoft.com/sharepoint/delve-for-office-365-admins" },
+      { id: "places", name: "Places", desc: "Workplace coordination app for managing hybrid work, room booking, and office presence.", url: "https://learn.microsoft.com/microsoft-365/places/" },
       { id: "calendar", name: "Calendar", desc: "Calendar app for managing and sharing schedules, events, and meetings." },
-      { id: "microsoft-365", name: "Microsoft 365", desc: "The integrated suite of productivity apps, cloud services, and security for businesses and individuals." }
+      { id: "microsoft-365", name: "Microsoft 365", desc: "The integrated suite of productivity apps, cloud services, and security for businesses and individuals.", url: "https://learn.microsoft.com/microsoft-365/" }
     ]
   },
   {
     id: "power-platform",
     name: "Power Platform",
     icons: [
-      { id: "power-apps", name: "Power Apps", desc: "Low-code platform for building custom business applications with drag-and-drop design and connectors." },
-      { id: "power-automate", name: "Power Automate", desc: "Workflow automation tool for creating automated flows between apps, services, and data sources." },
-      { id: "power-bi", name: "Power BI", desc: "Business analytics service for interactive visualisations, dashboards, and data-driven insights." },
-      { id: "power-pages", name: "Power Pages", desc: "Low-code platform for building secure, data-driven external-facing business websites." },
-      { id: "power-platform", name: "Power Platform", desc: "The unified suite comprising Power Apps, Power Automate, Power BI, Power Pages, and Copilot Studio." },
-      { id: "copilot-studio", name: "Copilot Studio", desc: "Low-code tool for building custom AI copilots and chatbots with generative AI capabilities." },
-      { id: "ai-builder", name: "AI Builder", desc: "AI capability for Power Platform that lets you add intelligence with prebuilt or custom AI models." },
-      { id: "dataverse", name: "Dataverse", desc: "Cloud-scale data platform that securely stores and manages data used by business applications." },
-      { id: "power-fx", name: "Power Fx", desc: "Low-code programming language based on Excel-like formulas, used across Power Platform." },
-      { id: "connectors", name: "Connectors", desc: "Pre-built integrations that connect Power Platform to hundreds of apps, services, and data sources." },
-      { id: "agent-365", name: "Agent 365", desc: "AI-powered autonomous agents that execute business processes and tasks on behalf of users." },
-      { id: "agent-builder", name: "Agent Builder", desc: "Built-in experience in Microsoft 365 Copilot for creating and sharing declarative agents using natural language or manual configuration." }
+      { id: "power-apps", name: "Power Apps", desc: "Low-code platform for building custom business applications with drag-and-drop design and connectors.", url: "https://learn.microsoft.com/power-apps/" },
+      { id: "power-automate", name: "Power Automate", desc: "Workflow automation tool for creating automated flows between apps, services, and data sources.", url: "https://learn.microsoft.com/power-automate/" },
+      { id: "power-bi", name: "Power BI", desc: "Business analytics service for interactive visualisations, dashboards, and data-driven insights.", url: "https://learn.microsoft.com/power-bi/" },
+      { id: "power-pages", name: "Power Pages", desc: "Low-code platform for building secure, data-driven external-facing business websites.", url: "https://learn.microsoft.com/power-pages/" },
+      { id: "power-platform", name: "Power Platform", desc: "The unified suite comprising Power Apps, Power Automate, Power BI, Power Pages, and Copilot Studio.", url: "https://learn.microsoft.com/power-platform/" },
+      { id: "copilot-studio", name: "Copilot Studio", desc: "Low-code tool for building custom AI copilots and chatbots with generative AI capabilities.", url: "https://learn.microsoft.com/microsoft-copilot-studio/" },
+      { id: "ai-builder", name: "AI Builder", desc: "AI capability for Power Platform that lets you add intelligence with prebuilt or custom AI models.", url: "https://learn.microsoft.com/ai-builder/" },
+      { id: "dataverse", name: "Dataverse", desc: "Cloud-scale data platform that securely stores and manages data used by business applications.", url: "https://learn.microsoft.com/power-apps/maker/data-platform/data-platform-intro" },
+      { id: "power-fx", name: "Power Fx", desc: "Low-code programming language based on Excel-like formulas, used across Power Platform.", url: "https://learn.microsoft.com/power-platform/power-fx/overview" },
+      { id: "connectors", name: "Connectors", desc: "Pre-built integrations that connect Power Platform to hundreds of apps, services, and data sources.", url: "https://learn.microsoft.com/connectors/" },
+      { id: "agent-365", name: "Agent 365", desc: "AI-powered autonomous agents that execute business processes and tasks on behalf of users.", url: "https://learn.microsoft.com/microsoft-agent-365/" },
+      { id: "agent-builder", name: "Agent Builder", desc: "Built-in experience in Microsoft 365 Copilot for creating and sharing declarative agents using natural language or manual configuration.", url: "https://learn.microsoft.com/microsoft-365/copilot/extensibility/agent-builder" }
     ]
   },
   {
     id: "dynamics-365",
     name: "Dynamics 365",
     icons: [
-      { id: "dynamics-365", name: "Dynamics 365", desc: "Suite of intelligent business applications for ERP and CRM across sales, service, finance, and operations." },
-      { id: "business-central", name: "Business Central", desc: "Business management solution for SMBs covering finance, supply chain, sales, and project management." },
-      { id: "sales", name: "Sales", desc: "CRM application for managing customer relationships, pipelines, and sales insights with AI." },
-      { id: "customer-service", name: "Customer Service", desc: "Omnichannel customer support platform with case management, knowledge base, and AI-driven insights." },
-      { id: "contact-center", name: "Contact Center", desc: "Copilot-first cloud contact center with omnichannel support, AI agents, and unified routing." },
-      { id: "field-service", name: "Field Service", desc: "Service management for scheduling, dispatching, and managing on-site work orders and technicians." },
-      { id: "finance", name: "Finance", desc: "Financial management application for automating accounting, budgeting, and global financial operations." },
-      { id: "finance-operations", name: "Finance & Operations", desc: "Cross-app capabilities for Dynamics 365 finance and operations applications." },
-      { id: "supply-chain", name: "Supply Chain Management", desc: "Operations management for manufacturing, warehousing, inventory, and supply chain planning." },
-      { id: "commerce", name: "Commerce", desc: "Unified commerce platform for managing retail operations across online and in-store channels." },
-      { id: "project-operations", name: "Project Operations", desc: "End-to-end project management from sales to delivery, combining project accounting and resource management." },
-      { id: "customer-voice", name: "Customer Voice", desc: "Feedback management tool for creating surveys and capturing customer sentiment at scale." },
-      { id: "customer-insights", name: "Customer Insights", desc: "Customer data platform combining unified profiles with real-time journey orchestration for personalised experiences." },
-      { id: "human-resources", name: "Human Resources", desc: "HR management for employee self-service, benefits, leave, compensation, and workforce analytics." },
-      { id: "intelligent-order-management", name: "Intelligent Order Management", desc: "Order orchestration platform for managing fulfilment across multiple channels and partners." },
-      { id: "sales-insights", name: "Sales Insights", desc: "AI-driven sales intelligence with conversation analytics, relationship insights, and predictive scoring." }
+      { id: "dynamics-365", name: "Dynamics 365", desc: "Suite of intelligent business applications for ERP and CRM across sales, service, finance, and operations.", url: "https://learn.microsoft.com/dynamics365/" },
+      { id: "business-central", name: "Business Central", desc: "Business management solution for SMBs covering finance, supply chain, sales, and project management.", url: "https://learn.microsoft.com/dynamics365/business-central/" },
+      { id: "sales", name: "Sales", desc: "CRM application for managing customer relationships, pipelines, and sales insights with AI.", url: "https://learn.microsoft.com/dynamics365/sales/" },
+      { id: "customer-service", name: "Customer Service", desc: "Omnichannel customer support platform with case management, knowledge base, and AI-driven insights.", url: "https://learn.microsoft.com/dynamics365/customer-service/" },
+      { id: "contact-center", name: "Contact Center", desc: "Copilot-first cloud contact center with omnichannel support, AI agents, and unified routing.", url: "https://learn.microsoft.com/dynamics365/contact-center/" },
+      { id: "field-service", name: "Field Service", desc: "Service management for scheduling, dispatching, and managing on-site work orders and technicians.", url: "https://learn.microsoft.com/dynamics365/field-service/" },
+      { id: "finance", name: "Finance", desc: "Financial management application for automating accounting, budgeting, and global financial operations.", url: "https://learn.microsoft.com/dynamics365/finance/" },
+      { id: "finance-operations", name: "Finance & Operations", desc: "Cross-app capabilities for Dynamics 365 finance and operations applications.", url: "https://learn.microsoft.com/dynamics365/fin-ops-core/fin-ops/" },
+      { id: "supply-chain", name: "Supply Chain Management", desc: "Operations management for manufacturing, warehousing, inventory, and supply chain planning.", url: "https://learn.microsoft.com/dynamics365/supply-chain/" },
+      { id: "commerce", name: "Commerce", desc: "Unified commerce platform for managing retail operations across online and in-store channels.", url: "https://learn.microsoft.com/dynamics365/commerce/" },
+      { id: "project-operations", name: "Project Operations", desc: "End-to-end project management from sales to delivery, combining project accounting and resource management.", url: "https://learn.microsoft.com/dynamics365/project-operations/" },
+      { id: "customer-voice", name: "Customer Voice", desc: "Feedback management tool for creating surveys and capturing customer sentiment at scale.", url: "https://learn.microsoft.com/dynamics365/customer-voice/" },
+      { id: "customer-insights", name: "Customer Insights", desc: "Customer data platform combining unified profiles with real-time journey orchestration for personalised experiences.", url: "https://learn.microsoft.com/dynamics365/customer-insights/" },
+      { id: "human-resources", name: "Human Resources", desc: "HR management for employee self-service, benefits, leave, compensation, and workforce analytics.", url: "https://learn.microsoft.com/dynamics365/human-resources/" },
+      { id: "intelligent-order-management", name: "Intelligent Order Management", desc: "Order orchestration platform for managing fulfilment across multiple channels and partners.", url: "https://learn.microsoft.com/dynamics365/intelligent-order-management/" },
+      { id: "sales-insights", name: "Sales Insights", desc: "AI-driven sales intelligence with conversation analytics, relationship insights, and predictive scoring.", url: "https://learn.microsoft.com/dynamics365/sales/intro-admin-guide-sales-insights" }
     ]
   },
   {
     id: "copilot",
     name: "Copilot",
     icons: [
-      { id: "copilot", name: "Microsoft Copilot", desc: "AI-powered assistant that uses large language models to help with tasks across Microsoft products and Microsoft 365." },
-      { id: "copilot-365", name: "Microsoft 365 Copilot", desc: "The Copilot experience embedded in Microsoft 365 apps — the swoosh icon with the M365 badge, as seen in the app store and Teams." }
+      { id: "copilot", name: "Microsoft Copilot", desc: "AI-powered assistant that uses large language models to help with tasks across Microsoft products and Microsoft 365.", url: "https://www.microsoft.com/copilot" },
+      { id: "copilot-365", name: "Microsoft 365 Copilot", desc: "The Copilot experience embedded in Microsoft 365 apps — the swoosh icon with the M365 badge, as seen in the app store and Teams.", url: "https://learn.microsoft.com/microsoft-365/copilot/microsoft-365-copilot-overview" }
     ]
   },
   {
     id: "entra",
     name: "Entra",
     icons: [
-      { id: "entra", name: "Microsoft Entra", desc: "Product family for identity and network access management, securing connections across cloud and on-premises." },
-      { id: "entra-id", name: "Entra ID", desc: "Cloud identity service (formerly Azure AD) for authentication, single sign-on, and conditional access." },
-      { id: "entra-id-governance", name: "Entra ID Governance", desc: "Identity governance for automating access requests, reviews, and lifecycle management at scale." },
-      { id: "entra-verified-id", name: "Entra Verified ID", desc: "Decentralised identity service for issuing and verifying privacy-respecting digital credentials." }
+      { id: "entra", name: "Microsoft Entra", desc: "Product family for identity and network access management, securing connections across cloud and on-premises.", url: "https://learn.microsoft.com/entra/" },
+      { id: "entra-id", name: "Entra ID", desc: "Cloud identity service (formerly Azure AD) for authentication, single sign-on, and conditional access.", url: "https://learn.microsoft.com/entra/identity/" },
+      { id: "entra-id-governance", name: "Entra ID Governance", desc: "Identity governance for automating access requests, reviews, and lifecycle management at scale.", url: "https://learn.microsoft.com/entra/id-governance/" },
+      { id: "entra-verified-id", name: "Entra Verified ID", desc: "Decentralised identity service for issuing and verifying privacy-respecting digital credentials.", url: "https://learn.microsoft.com/entra/verified-id/" }
     ]
   },
   {
     id: "security",
     name: "Security",
     icons: [
-      { id: "defender", name: "Defender", desc: "Unified security platform for threat protection across endpoints, email, identities, and cloud apps." },
-      { id: "purview", name: "Purview", desc: "Data governance and compliance solution for information protection, data loss prevention, and risk management." }
+      { id: "defender", name: "Defender", desc: "Unified security platform for threat protection across endpoints, email, identities, and cloud apps.", url: "https://www.microsoft.com/security/business/microsoft-defender" },
+      { id: "purview", name: "Purview", desc: "Data governance and compliance solution for information protection, data loss prevention, and risk management.", url: "https://learn.microsoft.com/purview/" }
     ]
   },
   {
     id: "viva",
     name: "Viva",
     icons: [
-      { id: "viva-suite", name: "Viva Suite", desc: "Employee experience platform that brings together communications, knowledge, learning, and insights." },
-      { id: "viva-connections", name: "Viva Connections", desc: "Personalised gateway to the digital workplace with company news, conversations, and resources." },
-      { id: "viva-insights", name: "Viva Insights", desc: "Workplace analytics providing data-driven insights to improve productivity and wellbeing." },
-      { id: "viva-learning", name: "Viva Learning", desc: "Learning hub that aggregates training content from multiple providers into the flow of work." },
-      { id: "viva-engage", name: "Viva Engage", desc: "Social engagement platform (formerly Yammer) for communities, conversations, and leadership communication." },
-      { id: "viva-amplify", name: "Viva Amplify", desc: "Corporate communications tool for creating, publishing, and measuring internal campaigns." },
-      { id: "viva-pulse", name: "Viva Pulse", desc: "Lightweight survey tool for managers to gather regular team feedback and track sentiment." },
-      { id: "viva-glint", name: "Viva Glint", desc: "Employee engagement survey platform with people-science-driven questions and action planning." },
+      { id: "viva-suite", name: "Viva Suite", desc: "Employee experience platform that brings together communications, knowledge, learning, and insights.", url: "https://learn.microsoft.com/viva/microsoft-viva-overview" },
+      { id: "viva-connections", name: "Viva Connections", desc: "Personalised gateway to the digital workplace with company news, conversations, and resources.", url: "https://learn.microsoft.com/sharepoint/homesites/sharepoint-app-in-teams-overview" },
+      { id: "viva-insights", name: "Viva Insights", desc: "Workplace analytics providing data-driven insights to improve productivity and wellbeing.", url: "https://learn.microsoft.com/viva/insights/" },
+      { id: "viva-learning", name: "Viva Learning", desc: "Learning hub that aggregates training content from multiple providers into the flow of work.", url: "https://learn.microsoft.com/viva/learning/" },
+      { id: "viva-engage", name: "Viva Engage", desc: "Social engagement platform (formerly Yammer) for communities, conversations, and leadership communication.", url: "https://learn.microsoft.com/viva/engage/" },
+      { id: "viva-amplify", name: "Viva Amplify", desc: "Corporate communications tool for creating, publishing, and measuring internal campaigns.", url: "https://learn.microsoft.com/viva/amplify/overview-viva-amplify" },
+      { id: "viva-pulse", name: "Viva Pulse", desc: "Lightweight survey tool for managers to gather regular team feedback and track sentiment.", url: "https://learn.microsoft.com/viva/pulse/" },
+      { id: "viva-glint", name: "Viva Glint", desc: "Employee engagement survey platform with people-science-driven questions and action planning.", url: "https://learn.microsoft.com/viva/glint/" },
       { id: "viva-home", name: "Viva Home", desc: "Central dashboard for the Viva employee experience platform, surfacing personalised content and insights." }
     ]
   },
@@ -517,77 +526,77 @@ const CATEGORIES = [
     id: "fabric",
     name: "Fabric",
     icons: [
-      { id: "fabric", name: "Microsoft Fabric", desc: "Unified data analytics platform combining data engineering, warehousing, science, and real-time analytics in one SaaS experience." },
+      { id: "fabric", name: "Microsoft Fabric", desc: "Unified data analytics platform combining data engineering, warehousing, science, and real-time analytics in one SaaS experience.", url: "https://learn.microsoft.com/fabric/fundamentals/microsoft-fabric-overview" },
       { id: "action", name: "Action", desc: "An action item in a Fabric workspace, representing an executable step or operation." },
       { id: "apps", name: "Apps", desc: "A Fabric app, a packaged collection of reports and dashboards distributed to consumers." },
       { id: "cohort", name: "Cohort", desc: "A patient or population cohort defined in Fabric healthcare data solutions." },
-      { id: "copy-job", name: "Copy Job", desc: "Data Factory copy job for simple, repeatable data movement from source to destination." },
+      { id: "copy-job", name: "Copy Job", desc: "Data Factory copy job for simple, repeatable data movement from source to destination.", url: "https://learn.microsoft.com/fabric/data-factory/what-is-copy-job" },
       { id: "custom-streaming-connector", name: "Custom Streaming Connector", desc: "A custom connector that brings an external streaming source into an eventstream." },
-      { id: "dashboard", name: "Dashboard", desc: "Power BI dashboard, a single-page canvas of pinned visuals from one or more reports." },
-      { id: "data-agent", name: "Data Agent", desc: "Fabric data agent, a conversational AI agent that answers questions over workspace data." },
-      { id: "data-factory", name: "Data Factory", desc: "Data Factory in Fabric, the data integration workload for pipelines, dataflows and copy jobs." },
+      { id: "dashboard", name: "Dashboard", desc: "Power BI dashboard, a single-page canvas of pinned visuals from one or more reports.", url: "https://learn.microsoft.com/power-bi/create-reports/service-dashboards" },
+      { id: "data-agent", name: "Data Agent", desc: "Fabric data agent, a conversational AI agent that answers questions over workspace data.", url: "https://learn.microsoft.com/fabric/data-science/concept-data-agent" },
+      { id: "data-factory", name: "Data Factory", desc: "Data Factory in Fabric, the data integration workload for pipelines, dataflows and copy jobs.", url: "https://learn.microsoft.com/fabric/data-factory/data-factory-overview" },
       { id: "data-quality", name: "Data Quality", desc: "Data quality item for defining and monitoring quality rules over Fabric data." },
-      { id: "data-warehouse", name: "Warehouse", desc: "Fabric Warehouse, a lake-centric SQL data warehouse with full T-SQL support." },
-      { id: "dataflow", name: "Dataflow", desc: "Dataflow, a Power Query based item for ingesting and transforming data." },
-      { id: "dataflow-gen2", name: "Dataflow Gen2", desc: "Dataflow Gen2, the Fabric generation of Power Query dataflows with output destinations." },
+      { id: "data-warehouse", name: "Warehouse", desc: "Fabric Warehouse, a lake-centric SQL data warehouse with full T-SQL support.", url: "https://learn.microsoft.com/fabric/data-warehouse/data-warehousing" },
+      { id: "dataflow", name: "Dataflow", desc: "Dataflow, a Power Query based item for ingesting and transforming data.", url: "https://learn.microsoft.com/power-bi/transform-model/dataflows/dataflows-introduction-self-service" },
+      { id: "dataflow-gen2", name: "Dataflow Gen2", desc: "Dataflow Gen2, the Fabric generation of Power Query dataflows with output destinations.", url: "https://learn.microsoft.com/fabric/data-factory/dataflows-gen2-overview" },
       { id: "datamart", name: "Datamart", desc: "Datamart, a self-service relational database for small-scale analytics in Power BI." },
-      { id: "environment", name: "Environment", desc: "Fabric environment, a shared configuration of Spark compute, libraries and settings." },
-      { id: "event-house", name: "Eventhouse", desc: "Eventhouse, the Real-Time Intelligence store that hosts one or more KQL databases." },
-      { id: "eventstream", name: "Eventstream", desc: "Eventstream, a no-code item for capturing, transforming and routing real-time events." },
-      { id: "experiments", name: "ML Experiment", desc: "ML experiment, a container for tracking machine learning runs and their metrics." },
+      { id: "environment", name: "Environment", desc: "Fabric environment, a shared configuration of Spark compute, libraries and settings.", url: "https://learn.microsoft.com/fabric/data-engineering/create-and-use-environment" },
+      { id: "event-house", name: "Eventhouse", desc: "Eventhouse, the Real-Time Intelligence store that hosts one or more KQL databases.", url: "https://learn.microsoft.com/fabric/real-time-intelligence/eventhouse" },
+      { id: "eventstream", name: "Eventstream", desc: "Eventstream, a no-code item for capturing, transforming and routing real-time events.", url: "https://learn.microsoft.com/fabric/real-time-intelligence/event-streams/overview" },
+      { id: "experiments", name: "ML Experiment", desc: "ML experiment, a container for tracking machine learning runs and their metrics.", url: "https://learn.microsoft.com/fabric/data-science/machine-learning-experiment" },
       { id: "exploration", name: "Exploration", desc: "Exploration, an ad-hoc data exploration item over a semantic model." },
       { id: "external-dataflow", name: "External Dataflow", desc: "A dataflow that lives in another workspace or tenant, referenced from this one." },
       { id: "external-datamart", name: "External Datamart", desc: "A datamart that lives in another workspace or tenant, referenced from this one." },
       { id: "external-semantic-model", name: "External Semantic Model", desc: "A semantic model that lives in another workspace or tenant, referenced from this one." },
       { id: "fabric-apps", name: "Fabric Apps", desc: "Fabric apps, packaged solutions built on Fabric workloads." },
       { id: "feature-store", name: "Feature Store", desc: "Feature store for registering, sharing and serving machine learning features." },
-      { id: "healthcare", name: "Healthcare Data Solutions", desc: "Healthcare data solutions in Fabric, for unifying clinical and operational data." },
-      { id: "kql-database", name: "KQL Database", desc: "KQL database, a Kusto database inside an eventhouse for time-series and log analytics." },
-      { id: "kql-queryset", name: "KQL Queryset", desc: "KQL queryset, a saved collection of Kusto queries over a KQL database." },
+      { id: "healthcare", name: "Healthcare Data Solutions", desc: "Healthcare data solutions in Fabric, for unifying clinical and operational data.", url: "https://learn.microsoft.com/industry/healthcare/healthcare-data-solutions/overview" },
+      { id: "kql-database", name: "KQL Database", desc: "KQL database, a Kusto database inside an eventhouse for time-series and log analytics.", url: "https://learn.microsoft.com/fabric/real-time-intelligence/create-database" },
+      { id: "kql-queryset", name: "KQL Queryset", desc: "KQL queryset, a saved collection of Kusto queries over a KQL database.", url: "https://learn.microsoft.com/fabric/real-time-intelligence/kusto-query-set" },
       { id: "kql-script", name: "KQL Script", desc: "KQL script, a saved Kusto management or query script." },
-      { id: "lakehouse", name: "Lakehouse", desc: "Lakehouse, a Delta-based data architecture combining data lake storage with SQL analytics." },
+      { id: "lakehouse", name: "Lakehouse", desc: "Lakehouse, a Delta-based data architecture combining data lake storage with SQL analytics.", url: "https://learn.microsoft.com/fabric/data-engineering/lakehouse-overview" },
       { id: "links", name: "Links", desc: "Links, a collection of saved references to related Fabric items." },
       { id: "metric-sets", name: "Metric Set", desc: "Metric set, a governed collection of reusable business metrics defined on a semantic model." },
-      { id: "mirrored-catalog", name: "Mirrored Catalog", desc: "Mirrored catalog, a continuously replicated external data catalog in OneLake." },
-      { id: "mirrored-generic-database", name: "Mirrored Database", desc: "Mirrored database, a near real-time replica of an external database in OneLake." },
+      { id: "mirrored-catalog", name: "Mirrored Catalog", desc: "Mirrored catalog, a continuously replicated external data catalog in OneLake.", url: "https://learn.microsoft.com/fabric/mirroring/azure-databricks" },
+      { id: "mirrored-generic-database", name: "Mirrored Database", desc: "Mirrored database, a near real-time replica of an external database in OneLake.", url: "https://learn.microsoft.com/fabric/mirroring/overview" },
       { id: "mirrored-generic-storage", name: "Mirrored Storage", desc: "Mirrored storage, a near real-time replica of external storage in OneLake." },
-      { id: "mobile-report", name: "Mobile Report", desc: "Mobile report, a Power BI report laid out for phone screens." },
-      { id: "model", name: "ML Model", desc: "ML model, a registered machine learning model with versions tracked in Fabric." },
-      { id: "notebook", name: "Notebook", desc: "Notebook, an interactive Spark notebook for data engineering and data science." },
-      { id: "ontology", name: "Ontology", desc: "Ontology, a semantic layer that defines entities and relationships over Fabric data." },
-      { id: "operations-agent", name: "Operations Agent", desc: "Operations agent, an AI agent that monitors and acts on operational data in Fabric." },
-      { id: "paginated-report", name: "Paginated Report", desc: "Paginated report, a pixel-perfect, print-ready report built with Report Builder." },
-      { id: "pipeline", name: "Pipeline", desc: "Data pipeline, an orchestration item for scheduling and chaining data activities." },
+      { id: "mobile-report", name: "Mobile Report", desc: "Mobile report, a Power BI report laid out for phone screens.", url: "https://learn.microsoft.com/power-bi/create-reports/power-bi-create-mobile-optimized-report-about" },
+      { id: "model", name: "ML Model", desc: "ML model, a registered machine learning model with versions tracked in Fabric.", url: "https://learn.microsoft.com/fabric/data-science/machine-learning-model" },
+      { id: "notebook", name: "Notebook", desc: "Notebook, an interactive Spark notebook for data engineering and data science.", url: "https://learn.microsoft.com/fabric/data-engineering/how-to-use-notebook" },
+      { id: "ontology", name: "Ontology", desc: "Ontology, a semantic layer that defines entities and relationships over Fabric data.", url: "https://learn.microsoft.com/fabric/iq/ontology/overview" },
+      { id: "operations-agent", name: "Operations Agent", desc: "Operations agent, an AI agent that monitors and acts on operational data in Fabric.", url: "https://learn.microsoft.com/fabric/real-time-intelligence/operations-agent" },
+      { id: "paginated-report", name: "Paginated Report", desc: "Paginated report, a pixel-perfect, print-ready report built with Report Builder.", url: "https://learn.microsoft.com/power-bi/paginated-reports/paginated-reports-report-builder-power-bi" },
+      { id: "pipeline", name: "Pipeline", desc: "Data pipeline, an orchestration item for scheduling and chaining data activities.", url: "https://learn.microsoft.com/fabric/data-factory/pipeline-overview" },
       { id: "planning", name: "Planning", desc: "Planning, the Fabric item for business planning and forecasting scenarios." },
       { id: "rdl-report", name: "RDL Report", desc: "RDL report, a Report Definition Language report hosted in Fabric." },
-      { id: "real-time-dashboard", name: "Real-Time Dashboard", desc: "Real-Time dashboard, a live tile-based view over KQL data in Real-Time Intelligence." },
-      { id: "report", name: "Report", desc: "Power BI report, an interactive multi-page view of a semantic model." },
+      { id: "real-time-dashboard", name: "Real-Time Dashboard", desc: "Real-Time dashboard, a live tile-based view over KQL data in Real-Time Intelligence.", url: "https://learn.microsoft.com/fabric/real-time-intelligence/dashboard-real-time-create" },
+      { id: "report", name: "Report", desc: "Power BI report, an interactive multi-page view of a semantic model.", url: "https://learn.microsoft.com/power-bi/create-reports/" },
       { id: "retail", name: "Retail Data Solutions", desc: "Retail data solutions in Fabric, for unifying retail and commerce data." },
       { id: "runtime-lineage", name: "Runtime Lineage", desc: "Runtime lineage, the recorded data flow between items as jobs actually ran." },
       { id: "schema-model", name: "Schema Model", desc: "Schema model, a shared schema definition used across Fabric data items." },
-      { id: "scorecard", name: "Scorecard", desc: "Scorecard, a Power BI item for tracking goals and metrics against targets." },
-      { id: "semantic-model", name: "Semantic Model", desc: "Semantic model, the Power BI dataset that defines tables, relationships and measures." },
-      { id: "shared-semantic-model", name: "Shared Semantic Model", desc: "A semantic model shared from another workspace." },
-      { id: "spark-job-direction", name: "Spark Job Definition", desc: "Spark job definition, a batch Spark job submitted to the Fabric runtime." },
-      { id: "sql-database", name: "SQL Database", desc: "SQL database in Fabric, a developer-friendly transactional database built on SQL Server." },
+      { id: "scorecard", name: "Scorecard", desc: "Scorecard, a Power BI item for tracking goals and metrics against targets.", url: "https://learn.microsoft.com/power-bi/create-reports/service-goals-introduction" },
+      { id: "semantic-model", name: "Semantic Model", desc: "Semantic model, the Power BI dataset that defines tables, relationships and measures.", url: "https://learn.microsoft.com/power-bi/connect-data/service-datasets-understand" },
+      { id: "shared-semantic-model", name: "Shared Semantic Model", desc: "A semantic model shared from another workspace.", url: "https://learn.microsoft.com/power-bi/connect-data/service-datasets-share" },
+      { id: "spark-job-direction", name: "Spark Job Definition", desc: "Spark job definition, a batch Spark job submitted to the Fabric runtime.", url: "https://learn.microsoft.com/fabric/data-engineering/spark-job-definition" },
+      { id: "sql-database", name: "SQL Database", desc: "SQL database in Fabric, a developer-friendly transactional database built on SQL Server.", url: "https://learn.microsoft.com/fabric/database/sql/overview" },
       { id: "streaming-dataflow", name: "Streaming Dataflow", desc: "Streaming dataflow, a dataflow that transforms streaming data in Power BI." },
-      { id: "streaming-semantic-model", name: "Streaming Semantic Model", desc: "Streaming semantic model, a Power BI dataset fed by real-time streaming data." },
+      { id: "streaming-semantic-model", name: "Streaming Semantic Model", desc: "Streaming semantic model, a Power BI dataset fed by real-time streaming data.", url: "https://learn.microsoft.com/power-bi/connect-data/service-real-time-streaming" },
       { id: "sustainability", name: "Sustainability Data Solutions", desc: "Sustainability data solutions in Fabric, for ESG and emissions data." },
-      { id: "user-data-functions", name: "User Data Functions", desc: "User data functions, serverless functions that run custom logic over Fabric data." },
-      { id: "variable-library", name: "Variable Library", desc: "Variable library, a set of workspace variables used to parameterise other items." }
+      { id: "user-data-functions", name: "User Data Functions", desc: "User data functions, serverless functions that run custom logic over Fabric data.", url: "https://learn.microsoft.com/fabric/data-engineering/user-data-functions/user-data-functions-overview" },
+      { id: "variable-library", name: "Variable Library", desc: "Variable library, a set of workspace variables used to parameterise other items.", url: "https://learn.microsoft.com/fabric/cicd/variable-library/variable-library-overview" }
     ]
   },
   {
     id: "other",
     name: "Other",
     icons: [
-      { id: "edge", name: "Microsoft Edge", desc: "Chromium-based web browser with built-in AI, security features, and enterprise management." },
+      { id: "edge", name: "Microsoft Edge", desc: "Chromium-based web browser with built-in AI, security features, and enterprise management.", url: "https://learn.microsoft.com/deployedge/" },
       { id: "bing", name: "Bing", desc: "Microsoft's search engine, now enhanced with AI-powered chat and content generation." },
-      { id: "designer", name: "Designer", desc: "AI-powered graphic design app for creating social media posts, invitations, and visual content." },
-      { id: "office", name: "Office", desc: "The classic Office brand encompassing the core productivity applications." },
-      { id: "foundry", name: "Microsoft Foundry", desc: "Innovation programme connecting startups with enterprise customers to co-develop solutions." },
-      { id: "family-safety", name: "Family Safety", desc: "Digital safety app for families with screen time management, content filtering, and location sharing." },
-      { id: "admin", name: "Admin Center", desc: "Web portal for managing Microsoft 365 subscriptions, users, groups, and service settings." }
+      { id: "designer", name: "Designer", desc: "AI-powered graphic design app for creating social media posts, invitations, and visual content.", url: "https://www.microsoft.com/microsoft-365/microsoft-designer" },
+      { id: "office", name: "Office", desc: "The classic Office brand encompassing the core productivity applications.", url: "https://www.microsoft.com/microsoft-365/microsoft-office" },
+      { id: "foundry", name: "Microsoft Foundry", desc: "Innovation programme connecting startups with enterprise customers to co-develop solutions.", url: "https://learn.microsoft.com/azure/foundry/what-is-foundry" },
+      { id: "family-safety", name: "Family Safety", desc: "Digital safety app for families with screen time management, content filtering, and location sharing.", url: "https://www.microsoft.com/microsoft-365/family-safety" },
+      { id: "admin", name: "Admin Center", desc: "Web portal for managing Microsoft 365 subscriptions, users, groups, and service settings.", url: "https://learn.microsoft.com/microsoft-365/admin/" }
     ]
   }
 ];
@@ -619,7 +628,7 @@ function render() {
             <div class="icon-card" data-search="${icon.name.toLowerCase()} ${icon.desc.toLowerCase()}">
               <img src="icons/${cat.id}/${icon.id}.svg" alt="${icon.name}" loading="lazy" onclick="window.open('icons/${cat.id}/${icon.id}.svg', '_blank')" title="Click to open SVG" />
               <div class="icon-info">
-                <h3>${icon.name}</h3>
+                <h3>${icon.url ? `<a href="${icon.url}" target="_blank" rel="noopener">${icon.name}</a>` : icon.name}</h3>
                 <p>${icon.desc}</p>
                 <div class="icon-actions">
                   <a href="icons/${cat.id}/${icon.id}.svg" target="_blank" title="Open SVG in new tab">${ICON_OPEN} Open SVG</a>

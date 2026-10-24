@@ -59,6 +59,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Word processor for creating, editing, and sharing documents with rich formatting and collaboration features.",
+      "url": "https://www.microsoft.com/microsoft-365/word",
       "svg": "icons/microsoft-365/word.svg",
       "png": "icons/microsoft-365/word.png"
     },
@@ -68,6 +69,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Spreadsheet application for data analysis, calculations, charts, and business intelligence.",
+      "url": "https://www.microsoft.com/microsoft-365/excel",
       "svg": "icons/microsoft-365/excel.svg",
       "png": "icons/microsoft-365/excel.png"
     },
@@ -77,6 +79,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Presentation tool for creating slide decks with animations, transitions, and design templates.",
+      "url": "https://www.microsoft.com/microsoft-365/powerpoint",
       "svg": "icons/microsoft-365/powerpoint.svg",
       "png": "icons/microsoft-365/powerpoint.png"
     },
@@ -86,6 +89,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Email, calendar, and contacts application for communication and scheduling.",
+      "url": "https://www.microsoft.com/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook",
       "svg": "icons/microsoft-365/outlook.svg",
       "png": "icons/microsoft-365/outlook.png"
     },
@@ -95,6 +99,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Collaboration hub for chat, video meetings, file sharing, and app integration.",
+      "url": "https://learn.microsoft.com/microsoftteams/teams-overview",
       "svg": "icons/microsoft-365/teams.svg",
       "png": "icons/microsoft-365/teams.png"
     },
@@ -104,6 +109,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Intranet and content management platform for team sites, document libraries, and workflows.",
+      "url": "https://learn.microsoft.com/sharepoint/introduction",
       "svg": "icons/microsoft-365/sharepoint.svg",
       "png": "icons/microsoft-365/sharepoint.png"
     },
@@ -113,6 +119,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Cloud storage service for saving, syncing, and sharing files across devices.",
+      "url": "https://learn.microsoft.com/onedrive/",
       "svg": "icons/microsoft-365/onedrive.svg",
       "png": "icons/microsoft-365/onedrive.png"
     },
@@ -122,6 +129,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Digital notebook for capturing and organising notes, drawings, and clippings.",
+      "url": "https://www.microsoft.com/microsoft-365/onenote/digital-note-taking-app",
       "svg": "icons/microsoft-365/onenote.svg",
       "png": "icons/microsoft-365/onenote.png"
     },
@@ -131,6 +139,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Desktop database application for building custom database solutions and forms.",
+      "url": "https://www.microsoft.com/microsoft-365/access",
       "svg": "icons/microsoft-365/access.svg",
       "png": "icons/microsoft-365/access.png"
     },
@@ -149,6 +158,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Diagramming tool for flowcharts, org charts, floor plans, and network diagrams.",
+      "url": "https://www.microsoft.com/microsoft-365/visio",
       "svg": "icons/microsoft-365/visio.svg",
       "png": "icons/microsoft-365/visio.png"
     },
@@ -158,6 +168,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Project management tool for scheduling, resource allocation, and tracking project progress.",
+      "url": "https://learn.microsoft.com/project/",
       "svg": "icons/microsoft-365/project.svg",
       "png": "icons/microsoft-365/project.png"
     },
@@ -167,6 +178,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Co-creation app with portable components that sync across Microsoft 365 apps in real time.",
+      "url": "https://adoption.microsoft.com/microsoft-loop/",
       "svg": "icons/microsoft-365/loop.svg",
       "png": "icons/microsoft-365/loop.png"
     },
@@ -176,6 +188,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Smart tracking app for organising information with customisable views, rules, and alerts.",
+      "url": "https://www.microsoft.com/microsoft-365/microsoft-lists",
       "svg": "icons/microsoft-365/lists.svg",
       "png": "icons/microsoft-365/lists.png"
     },
@@ -185,6 +198,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Survey and quiz builder for collecting feedback, registrations, and responses.",
+      "url": "https://www.microsoft.com/microsoft-365/online-surveys-polls-quizzes",
       "svg": "icons/microsoft-365/forms.svg",
       "png": "icons/microsoft-365/forms.png"
     },
@@ -194,6 +208,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Task management app for creating plans, assigning tasks, and tracking team progress with visual boards.",
+      "url": "https://www.microsoft.com/microsoft-365/planner/microsoft-planner",
       "svg": "icons/microsoft-365/planner.svg",
       "png": "icons/microsoft-365/planner.png"
     },
@@ -203,6 +218,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Enterprise video service for uploading, sharing, and managing video content securely.",
+      "url": "https://learn.microsoft.com/office365/servicedescriptions/microsoft-stream",
       "svg": "icons/microsoft-365/stream.svg",
       "png": "icons/microsoft-365/stream.png"
     },
@@ -212,6 +228,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Video editor for creating and editing videos with templates, effects, and screen recording.",
+      "url": "https://www.microsoft.com/microsoft-365/clipchamp",
       "svg": "icons/microsoft-365/clipchamp.svg",
       "png": "icons/microsoft-365/clipchamp.png"
     },
@@ -230,6 +247,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Online scheduling tool that lets customers book appointments and meetings directly.",
+      "url": "https://learn.microsoft.com/microsoft-365/bookings/bookings-overview",
       "svg": "icons/microsoft-365/bookings.svg",
       "png": "icons/microsoft-365/bookings.png"
     },
@@ -239,6 +257,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Personal task management app for organising daily tasks with smart suggestions and My Day planning.",
+      "url": "https://www.microsoft.com/microsoft-365/microsoft-to-do-list-app",
       "svg": "icons/microsoft-365/todo.svg",
       "png": "icons/microsoft-365/todo.png"
     },
@@ -248,6 +267,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Digital canvas for visual collaboration, brainstorming, and ideation in meetings.",
+      "url": "https://www.microsoft.com/microsoft-365/microsoft-whiteboard/digital-whiteboard-app",
       "svg": "icons/microsoft-365/whiteboard.svg",
       "png": "icons/microsoft-365/whiteboard.png"
     },
@@ -257,6 +277,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Content discovery tool that surfaces relevant documents and content from across your organisation.",
+      "url": "https://learn.microsoft.com/sharepoint/delve-for-office-365-admins",
       "svg": "icons/microsoft-365/delve.svg",
       "png": "icons/microsoft-365/delve.png"
     },
@@ -266,6 +287,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "Workplace coordination app for managing hybrid work, room booking, and office presence.",
+      "url": "https://learn.microsoft.com/microsoft-365/places/",
       "svg": "icons/microsoft-365/places.svg",
       "png": "icons/microsoft-365/places.png"
     },
@@ -284,6 +306,7 @@
       "category": "microsoft-365",
       "categoryName": "Microsoft 365",
       "description": "The integrated suite of productivity apps, cloud services, and security for businesses and individuals.",
+      "url": "https://learn.microsoft.com/microsoft-365/",
       "svg": "icons/microsoft-365/microsoft-365.svg",
       "png": "icons/microsoft-365/microsoft-365.png"
     },
@@ -293,6 +316,7 @@
       "category": "power-platform",
       "categoryName": "Power Platform",
       "description": "Low-code platform for building custom business applications with drag-and-drop design and connectors.",
+      "url": "https://learn.microsoft.com/power-apps/",
       "svg": "icons/power-platform/power-apps.svg",
       "png": "icons/power-platform/power-apps.png"
     },
@@ -302,6 +326,7 @@
       "category": "power-platform",
       "categoryName": "Power Platform",
       "description": "Workflow automation tool for creating automated flows between apps, services, and data sources.",
+      "url": "https://learn.microsoft.com/power-automate/",
       "svg": "icons/power-platform/power-automate.svg",
       "png": "icons/power-platform/power-automate.png"
     },
@@ -311,6 +336,7 @@
       "category": "power-platform",
       "categoryName": "Power Platform",
       "description": "Business analytics service for interactive visualisations, dashboards, and data-driven insights.",
+      "url": "https://learn.microsoft.com/power-bi/",
       "svg": "icons/power-platform/power-bi.svg",
       "png": "icons/power-platform/power-bi.png"
     },
@@ -320,6 +346,7 @@
       "category": "power-platform",
       "categoryName": "Power Platform",
       "description": "Low-code platform for building secure, data-driven external-facing business websites.",
+      "url": "https://learn.microsoft.com/power-pages/",
       "svg": "icons/power-platform/power-pages.svg",
       "png": "icons/power-platform/power-pages.png"
     },
@@ -329,6 +356,7 @@
       "category": "power-platform",
       "categoryName": "Power Platform",
       "description": "The unified suite comprising Power Apps, Power Automate, Power BI, Power Pages, and Copilot Studio.",
+      "url": "https://learn.microsoft.com/power-platform/",
       "svg": "icons/power-platform/power-platform.svg",
       "png": "icons/power-platform/power-platform.png"
     },
@@ -338,6 +366,7 @@
       "category": "power-platform",
       "categoryName": "Power Platform",
       "description": "Low-code tool for building custom AI copilots and chatbots with generative AI capabilities.",
+      "url": "https://learn.microsoft.com/microsoft-copilot-studio/",
       "svg": "icons/power-platform/copilot-studio.svg",
       "png": "icons/power-platform/copilot-studio.png"
     },
@@ -347,6 +376,7 @@
       "category": "power-platform",
       "categoryName": "Power Platform",
       "description": "AI capability for Power Platform that lets you add intelligence with prebuilt or custom AI models.",
+      "url": "https://learn.microsoft.com/ai-builder/",
       "svg": "icons/power-platform/ai-builder.svg",
       "png": "icons/power-platform/ai-builder.png"
     },
@@ -356,6 +386,7 @@
       "category": "power-platform",
       "categoryName": "Power Platform",
       "description": "Cloud-scale data platform that securely stores and manages data used by business applications.",
+      "url": "https://learn.microsoft.com/power-apps/maker/data-platform/data-platform-intro",
       "svg": "icons/power-platform/dataverse.svg",
       "png": "icons/power-platform/dataverse.png"
     },
@@ -365,6 +396,7 @@
       "category": "power-platform",
       "categoryName": "Power Platform",
       "description": "Low-code programming language based on Excel-like formulas, used across Power Platform.",
+      "url": "https://learn.microsoft.com/power-platform/power-fx/overview",
       "svg": "icons/power-platform/power-fx.svg",
       "png": "icons/power-platform/power-fx.png"
     },
@@ -374,6 +406,7 @@
       "category": "power-platform",
       "categoryName": "Power Platform",
       "description": "Pre-built integrations that connect Power Platform to hundreds of apps, services, and data sources.",
+      "url": "https://learn.microsoft.com/connectors/",
       "svg": "icons/power-platform/connectors.svg",
       "png": "icons/power-platform/connectors.png"
     },
@@ -383,6 +416,7 @@
       "category": "power-platform",
       "categoryName": "Power Platform",
       "description": "AI-powered autonomous agents that execute business processes and tasks on behalf of users.",
+      "url": "https://learn.microsoft.com/microsoft-agent-365/",
       "svg": "icons/power-platform/agent-365.svg",
       "png": "icons/power-platform/agent-365.png"
     },
@@ -392,6 +426,7 @@
       "category": "power-platform",
       "categoryName": "Power Platform",
       "description": "Built-in experience in Microsoft 365 Copilot for creating and sharing declarative agents using natural language or manual configuration.",
+      "url": "https://learn.microsoft.com/microsoft-365/copilot/extensibility/agent-builder",
       "svg": "icons/power-platform/agent-builder.svg",
       "png": "icons/power-platform/agent-builder.png"
     },
@@ -401,6 +436,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "Suite of intelligent business applications for ERP and CRM across sales, service, finance, and operations.",
+      "url": "https://learn.microsoft.com/dynamics365/",
       "svg": "icons/dynamics-365/dynamics-365.svg",
       "png": "icons/dynamics-365/dynamics-365.png"
     },
@@ -410,6 +446,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "Business management solution for SMBs covering finance, supply chain, sales, and project management.",
+      "url": "https://learn.microsoft.com/dynamics365/business-central/",
       "svg": "icons/dynamics-365/business-central.svg",
       "png": "icons/dynamics-365/business-central.png"
     },
@@ -419,6 +456,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "CRM application for managing customer relationships, pipelines, and sales insights with AI.",
+      "url": "https://learn.microsoft.com/dynamics365/sales/",
       "svg": "icons/dynamics-365/sales.svg",
       "png": "icons/dynamics-365/sales.png"
     },
@@ -428,6 +466,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "Omnichannel customer support platform with case management, knowledge base, and AI-driven insights.",
+      "url": "https://learn.microsoft.com/dynamics365/customer-service/",
       "svg": "icons/dynamics-365/customer-service.svg",
       "png": "icons/dynamics-365/customer-service.png"
     },
@@ -437,6 +476,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "Copilot-first cloud contact center with omnichannel support, AI agents, and unified routing.",
+      "url": "https://learn.microsoft.com/dynamics365/contact-center/",
       "svg": "icons/dynamics-365/contact-center.svg",
       "png": "icons/dynamics-365/contact-center.png"
     },
@@ -446,6 +486,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "Service management for scheduling, dispatching, and managing on-site work orders and technicians.",
+      "url": "https://learn.microsoft.com/dynamics365/field-service/",
       "svg": "icons/dynamics-365/field-service.svg",
       "png": "icons/dynamics-365/field-service.png"
     },
@@ -455,6 +496,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "Financial management application for automating accounting, budgeting, and global financial operations.",
+      "url": "https://learn.microsoft.com/dynamics365/finance/",
       "svg": "icons/dynamics-365/finance.svg",
       "png": "icons/dynamics-365/finance.png"
     },
@@ -464,6 +506,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "Cross-app capabilities for Dynamics 365 finance and operations applications.",
+      "url": "https://learn.microsoft.com/dynamics365/fin-ops-core/fin-ops/",
       "svg": "icons/dynamics-365/finance-operations.svg",
       "png": "icons/dynamics-365/finance-operations.png"
     },
@@ -473,6 +516,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "Operations management for manufacturing, warehousing, inventory, and supply chain planning.",
+      "url": "https://learn.microsoft.com/dynamics365/supply-chain/",
       "svg": "icons/dynamics-365/supply-chain.svg",
       "png": "icons/dynamics-365/supply-chain.png"
     },
@@ -482,6 +526,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "Unified commerce platform for managing retail operations across online and in-store channels.",
+      "url": "https://learn.microsoft.com/dynamics365/commerce/",
       "svg": "icons/dynamics-365/commerce.svg",
       "png": "icons/dynamics-365/commerce.png"
     },
@@ -491,6 +536,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "End-to-end project management from sales to delivery, combining project accounting and resource management.",
+      "url": "https://learn.microsoft.com/dynamics365/project-operations/",
       "svg": "icons/dynamics-365/project-operations.svg",
       "png": "icons/dynamics-365/project-operations.png"
     },
@@ -500,6 +546,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "Feedback management tool for creating surveys and capturing customer sentiment at scale.",
+      "url": "https://learn.microsoft.com/dynamics365/customer-voice/",
       "svg": "icons/dynamics-365/customer-voice.svg",
       "png": "icons/dynamics-365/customer-voice.png"
     },
@@ -509,6 +556,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "Customer data platform combining unified profiles with real-time journey orchestration for personalised experiences.",
+      "url": "https://learn.microsoft.com/dynamics365/customer-insights/",
       "svg": "icons/dynamics-365/customer-insights.svg",
       "png": "icons/dynamics-365/customer-insights.png"
     },
@@ -518,6 +566,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "HR management for employee self-service, benefits, leave, compensation, and workforce analytics.",
+      "url": "https://learn.microsoft.com/dynamics365/human-resources/",
       "svg": "icons/dynamics-365/human-resources.svg",
       "png": "icons/dynamics-365/human-resources.png"
     },
@@ -527,6 +576,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "Order orchestration platform for managing fulfilment across multiple channels and partners.",
+      "url": "https://learn.microsoft.com/dynamics365/intelligent-order-management/",
       "svg": "icons/dynamics-365/intelligent-order-management.svg",
       "png": "icons/dynamics-365/intelligent-order-management.png"
     },
@@ -536,6 +586,7 @@
       "category": "dynamics-365",
       "categoryName": "Dynamics 365",
       "description": "AI-driven sales intelligence with conversation analytics, relationship insights, and predictive scoring.",
+      "url": "https://learn.microsoft.com/dynamics365/sales/intro-admin-guide-sales-insights",
       "svg": "icons/dynamics-365/sales-insights.svg",
       "png": "icons/dynamics-365/sales-insights.png"
     },
@@ -545,6 +596,7 @@
       "category": "copilot",
       "categoryName": "Copilot",
       "description": "AI-powered assistant that uses large language models to help with tasks across Microsoft products and Microsoft 365.",
+      "url": "https://www.microsoft.com/copilot",
       "svg": "icons/copilot/copilot.svg",
       "png": "icons/copilot/copilot.png"
     },
@@ -554,6 +606,7 @@
       "category": "copilot",
       "categoryName": "Copilot",
       "description": "The Copilot experience embedded in Microsoft 365 apps — the swoosh icon with the M365 badge, as seen in the app store and Teams.",
+      "url": "https://learn.microsoft.com/microsoft-365/copilot/microsoft-365-copilot-overview",
       "svg": "icons/copilot/copilot-365.svg",
       "png": "icons/copilot/copilot-365.png"
     },
@@ -563,6 +616,7 @@
       "category": "entra",
       "categoryName": "Entra",
       "description": "Product family for identity and network access management, securing connections across cloud and on-premises.",
+      "url": "https://learn.microsoft.com/entra/",
       "svg": "icons/entra/entra.svg",
       "png": "icons/entra/entra.png"
     },
@@ -572,6 +626,7 @@
       "category": "entra",
       "categoryName": "Entra",
       "description": "Cloud identity service (formerly Azure AD) for authentication, single sign-on, and conditional access.",
+      "url": "https://learn.microsoft.com/entra/identity/",
       "svg": "icons/entra/entra-id.svg",
       "png": "icons/entra/entra-id.png"
     },
@@ -581,6 +636,7 @@
       "category": "entra",
       "categoryName": "Entra",
       "description": "Identity governance for automating access requests, reviews, and lifecycle management at scale.",
+      "url": "https://learn.microsoft.com/entra/id-governance/",
       "svg": "icons/entra/entra-id-governance.svg",
       "png": "icons/entra/entra-id-governance.png"
     },
@@ -590,6 +646,7 @@
       "category": "entra",
       "categoryName": "Entra",
       "description": "Decentralised identity service for issuing and verifying privacy-respecting digital credentials.",
+      "url": "https://learn.microsoft.com/entra/verified-id/",
       "svg": "icons/entra/entra-verified-id.svg",
       "png": "icons/entra/entra-verified-id.png"
     },
@@ -599,6 +656,7 @@
       "category": "security",
       "categoryName": "Security",
       "description": "Unified security platform for threat protection across endpoints, email, identities, and cloud apps.",
+      "url": "https://www.microsoft.com/security/business/microsoft-defender",
       "svg": "icons/security/defender.svg",
       "png": "icons/security/defender.png"
     },
@@ -608,6 +666,7 @@
       "category": "security",
       "categoryName": "Security",
       "description": "Data governance and compliance solution for information protection, data loss prevention, and risk management.",
+      "url": "https://learn.microsoft.com/purview/",
       "svg": "icons/security/purview.svg",
       "png": "icons/security/purview.png"
     },
@@ -617,6 +676,7 @@
       "category": "viva",
       "categoryName": "Viva",
       "description": "Employee experience platform that brings together communications, knowledge, learning, and insights.",
+      "url": "https://learn.microsoft.com/viva/microsoft-viva-overview",
       "svg": "icons/viva/viva-suite.svg",
       "png": "icons/viva/viva-suite.png"
     },
@@ -626,6 +686,7 @@
       "category": "viva",
       "categoryName": "Viva",
       "description": "Personalised gateway to the digital workplace with company news, conversations, and resources.",
+      "url": "https://learn.microsoft.com/sharepoint/homesites/sharepoint-app-in-teams-overview",
       "svg": "icons/viva/viva-connections.svg",
       "png": "icons/viva/viva-connections.png"
     },
@@ -635,6 +696,7 @@
       "category": "viva",
       "categoryName": "Viva",
       "description": "Workplace analytics providing data-driven insights to improve productivity and wellbeing.",
+      "url": "https://learn.microsoft.com/viva/insights/",
       "svg": "icons/viva/viva-insights.svg",
       "png": "icons/viva/viva-insights.png"
     },
@@ -644,6 +706,7 @@
       "category": "viva",
       "categoryName": "Viva",
       "description": "Learning hub that aggregates training content from multiple providers into the flow of work.",
+      "url": "https://learn.microsoft.com/viva/learning/",
       "svg": "icons/viva/viva-learning.svg",
       "png": "icons/viva/viva-learning.png"
     },
@@ -653,6 +716,7 @@
       "category": "viva",
       "categoryName": "Viva",
       "description": "Social engagement platform (formerly Yammer) for communities, conversations, and leadership communication.",
+      "url": "https://learn.microsoft.com/viva/engage/",
       "svg": "icons/viva/viva-engage.svg",
       "png": "icons/viva/viva-engage.png"
     },
@@ -662,6 +726,7 @@
       "category": "viva",
       "categoryName": "Viva",
       "description": "Corporate communications tool for creating, publishing, and measuring internal campaigns.",
+      "url": "https://learn.microsoft.com/viva/amplify/overview-viva-amplify",
       "svg": "icons/viva/viva-amplify.svg",
       "png": "icons/viva/viva-amplify.png"
     },
@@ -671,6 +736,7 @@
       "category": "viva",
       "categoryName": "Viva",
       "description": "Lightweight survey tool for managers to gather regular team feedback and track sentiment.",
+      "url": "https://learn.microsoft.com/viva/pulse/",
       "svg": "icons/viva/viva-pulse.svg",
       "png": "icons/viva/viva-pulse.png"
     },
@@ -680,6 +746,7 @@
       "category": "viva",
       "categoryName": "Viva",
       "description": "Employee engagement survey platform with people-science-driven questions and action planning.",
+      "url": "https://learn.microsoft.com/viva/glint/",
       "svg": "icons/viva/viva-glint.svg",
       "png": "icons/viva/viva-glint.png"
     },
@@ -698,6 +765,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Unified data analytics platform combining data engineering, warehousing, science, and real-time analytics in one SaaS experience.",
+      "url": "https://learn.microsoft.com/fabric/fundamentals/microsoft-fabric-overview",
       "svg": "icons/fabric/fabric.svg",
       "png": "icons/fabric/fabric.png"
     },
@@ -734,6 +802,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Data Factory copy job for simple, repeatable data movement from source to destination.",
+      "url": "https://learn.microsoft.com/fabric/data-factory/what-is-copy-job",
       "svg": "icons/fabric/copy-job.svg",
       "png": "icons/fabric/copy-job.png"
     },
@@ -752,6 +821,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Power BI dashboard, a single-page canvas of pinned visuals from one or more reports.",
+      "url": "https://learn.microsoft.com/power-bi/create-reports/service-dashboards",
       "svg": "icons/fabric/dashboard.svg",
       "png": "icons/fabric/dashboard.png"
     },
@@ -761,6 +831,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Fabric data agent, a conversational AI agent that answers questions over workspace data.",
+      "url": "https://learn.microsoft.com/fabric/data-science/concept-data-agent",
       "svg": "icons/fabric/data-agent.svg",
       "png": "icons/fabric/data-agent.png"
     },
@@ -770,6 +841,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Data Factory in Fabric, the data integration workload for pipelines, dataflows and copy jobs.",
+      "url": "https://learn.microsoft.com/fabric/data-factory/data-factory-overview",
       "svg": "icons/fabric/data-factory.svg",
       "png": "icons/fabric/data-factory.png"
     },
@@ -788,6 +860,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Fabric Warehouse, a lake-centric SQL data warehouse with full T-SQL support.",
+      "url": "https://learn.microsoft.com/fabric/data-warehouse/data-warehousing",
       "svg": "icons/fabric/data-warehouse.svg",
       "png": "icons/fabric/data-warehouse.png"
     },
@@ -797,6 +870,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Dataflow, a Power Query based item for ingesting and transforming data.",
+      "url": "https://learn.microsoft.com/power-bi/transform-model/dataflows/dataflows-introduction-self-service",
       "svg": "icons/fabric/dataflow.svg",
       "png": "icons/fabric/dataflow.png"
     },
@@ -806,6 +880,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Dataflow Gen2, the Fabric generation of Power Query dataflows with output destinations.",
+      "url": "https://learn.microsoft.com/fabric/data-factory/dataflows-gen2-overview",
       "svg": "icons/fabric/dataflow-gen2.svg",
       "png": "icons/fabric/dataflow-gen2.png"
     },
@@ -824,6 +899,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Fabric environment, a shared configuration of Spark compute, libraries and settings.",
+      "url": "https://learn.microsoft.com/fabric/data-engineering/create-and-use-environment",
       "svg": "icons/fabric/environment.svg",
       "png": "icons/fabric/environment.png"
     },
@@ -833,6 +909,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Eventhouse, the Real-Time Intelligence store that hosts one or more KQL databases.",
+      "url": "https://learn.microsoft.com/fabric/real-time-intelligence/eventhouse",
       "svg": "icons/fabric/event-house.svg",
       "png": "icons/fabric/event-house.png"
     },
@@ -842,6 +919,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Eventstream, a no-code item for capturing, transforming and routing real-time events.",
+      "url": "https://learn.microsoft.com/fabric/real-time-intelligence/event-streams/overview",
       "svg": "icons/fabric/eventstream.svg",
       "png": "icons/fabric/eventstream.png"
     },
@@ -851,6 +929,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "ML experiment, a container for tracking machine learning runs and their metrics.",
+      "url": "https://learn.microsoft.com/fabric/data-science/machine-learning-experiment",
       "svg": "icons/fabric/experiments.svg",
       "png": "icons/fabric/experiments.png"
     },
@@ -914,6 +993,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Healthcare data solutions in Fabric, for unifying clinical and operational data.",
+      "url": "https://learn.microsoft.com/industry/healthcare/healthcare-data-solutions/overview",
       "svg": "icons/fabric/healthcare.svg",
       "png": "icons/fabric/healthcare.png"
     },
@@ -923,6 +1003,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "KQL database, a Kusto database inside an eventhouse for time-series and log analytics.",
+      "url": "https://learn.microsoft.com/fabric/real-time-intelligence/create-database",
       "svg": "icons/fabric/kql-database.svg",
       "png": "icons/fabric/kql-database.png"
     },
@@ -932,6 +1013,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "KQL queryset, a saved collection of Kusto queries over a KQL database.",
+      "url": "https://learn.microsoft.com/fabric/real-time-intelligence/kusto-query-set",
       "svg": "icons/fabric/kql-queryset.svg",
       "png": "icons/fabric/kql-queryset.png"
     },
@@ -950,6 +1032,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Lakehouse, a Delta-based data architecture combining data lake storage with SQL analytics.",
+      "url": "https://learn.microsoft.com/fabric/data-engineering/lakehouse-overview",
       "svg": "icons/fabric/lakehouse.svg",
       "png": "icons/fabric/lakehouse.png"
     },
@@ -977,6 +1060,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Mirrored catalog, a continuously replicated external data catalog in OneLake.",
+      "url": "https://learn.microsoft.com/fabric/mirroring/azure-databricks",
       "svg": "icons/fabric/mirrored-catalog.svg",
       "png": "icons/fabric/mirrored-catalog.png"
     },
@@ -986,6 +1070,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Mirrored database, a near real-time replica of an external database in OneLake.",
+      "url": "https://learn.microsoft.com/fabric/mirroring/overview",
       "svg": "icons/fabric/mirrored-generic-database.svg",
       "png": "icons/fabric/mirrored-generic-database.png"
     },
@@ -1004,6 +1089,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Mobile report, a Power BI report laid out for phone screens.",
+      "url": "https://learn.microsoft.com/power-bi/create-reports/power-bi-create-mobile-optimized-report-about",
       "svg": "icons/fabric/mobile-report.svg",
       "png": "icons/fabric/mobile-report.png"
     },
@@ -1013,6 +1099,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "ML model, a registered machine learning model with versions tracked in Fabric.",
+      "url": "https://learn.microsoft.com/fabric/data-science/machine-learning-model",
       "svg": "icons/fabric/model.svg",
       "png": "icons/fabric/model.png"
     },
@@ -1022,6 +1109,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Notebook, an interactive Spark notebook for data engineering and data science.",
+      "url": "https://learn.microsoft.com/fabric/data-engineering/how-to-use-notebook",
       "svg": "icons/fabric/notebook.svg",
       "png": "icons/fabric/notebook.png"
     },
@@ -1031,6 +1119,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Ontology, a semantic layer that defines entities and relationships over Fabric data.",
+      "url": "https://learn.microsoft.com/fabric/iq/ontology/overview",
       "svg": "icons/fabric/ontology.svg",
       "png": "icons/fabric/ontology.png"
     },
@@ -1040,6 +1129,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Operations agent, an AI agent that monitors and acts on operational data in Fabric.",
+      "url": "https://learn.microsoft.com/fabric/real-time-intelligence/operations-agent",
       "svg": "icons/fabric/operations-agent.svg",
       "png": "icons/fabric/operations-agent.png"
     },
@@ -1049,6 +1139,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Paginated report, a pixel-perfect, print-ready report built with Report Builder.",
+      "url": "https://learn.microsoft.com/power-bi/paginated-reports/paginated-reports-report-builder-power-bi",
       "svg": "icons/fabric/paginated-report.svg",
       "png": "icons/fabric/paginated-report.png"
     },
@@ -1058,6 +1149,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Data pipeline, an orchestration item for scheduling and chaining data activities.",
+      "url": "https://learn.microsoft.com/fabric/data-factory/pipeline-overview",
       "svg": "icons/fabric/pipeline.svg",
       "png": "icons/fabric/pipeline.png"
     },
@@ -1085,6 +1177,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Real-Time dashboard, a live tile-based view over KQL data in Real-Time Intelligence.",
+      "url": "https://learn.microsoft.com/fabric/real-time-intelligence/dashboard-real-time-create",
       "svg": "icons/fabric/real-time-dashboard.svg",
       "png": "icons/fabric/real-time-dashboard.png"
     },
@@ -1094,6 +1187,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Power BI report, an interactive multi-page view of a semantic model.",
+      "url": "https://learn.microsoft.com/power-bi/create-reports/",
       "svg": "icons/fabric/report.svg",
       "png": "icons/fabric/report.png"
     },
@@ -1130,6 +1224,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Scorecard, a Power BI item for tracking goals and metrics against targets.",
+      "url": "https://learn.microsoft.com/power-bi/create-reports/service-goals-introduction",
       "svg": "icons/fabric/scorecard.svg",
       "png": "icons/fabric/scorecard.png"
     },
@@ -1139,6 +1234,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Semantic model, the Power BI dataset that defines tables, relationships and measures.",
+      "url": "https://learn.microsoft.com/power-bi/connect-data/service-datasets-understand",
       "svg": "icons/fabric/semantic-model.svg",
       "png": "icons/fabric/semantic-model.png"
     },
@@ -1148,6 +1244,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "A semantic model shared from another workspace.",
+      "url": "https://learn.microsoft.com/power-bi/connect-data/service-datasets-share",
       "svg": "icons/fabric/shared-semantic-model.svg",
       "png": "icons/fabric/shared-semantic-model.png"
     },
@@ -1157,6 +1254,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Spark job definition, a batch Spark job submitted to the Fabric runtime.",
+      "url": "https://learn.microsoft.com/fabric/data-engineering/spark-job-definition",
       "svg": "icons/fabric/spark-job-direction.svg",
       "png": "icons/fabric/spark-job-direction.png"
     },
@@ -1166,6 +1264,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "SQL database in Fabric, a developer-friendly transactional database built on SQL Server.",
+      "url": "https://learn.microsoft.com/fabric/database/sql/overview",
       "svg": "icons/fabric/sql-database.svg",
       "png": "icons/fabric/sql-database.png"
     },
@@ -1184,6 +1283,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Streaming semantic model, a Power BI dataset fed by real-time streaming data.",
+      "url": "https://learn.microsoft.com/power-bi/connect-data/service-real-time-streaming",
       "svg": "icons/fabric/streaming-semantic-model.svg",
       "png": "icons/fabric/streaming-semantic-model.png"
     },
@@ -1202,6 +1302,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "User data functions, serverless functions that run custom logic over Fabric data.",
+      "url": "https://learn.microsoft.com/fabric/data-engineering/user-data-functions/user-data-functions-overview",
       "svg": "icons/fabric/user-data-functions.svg",
       "png": "icons/fabric/user-data-functions.png"
     },
@@ -1211,6 +1312,7 @@
       "category": "fabric",
       "categoryName": "Fabric",
       "description": "Variable library, a set of workspace variables used to parameterise other items.",
+      "url": "https://learn.microsoft.com/fabric/cicd/variable-library/variable-library-overview",
       "svg": "icons/fabric/variable-library.svg",
       "png": "icons/fabric/variable-library.png"
     },
@@ -1220,6 +1322,7 @@
       "category": "other",
       "categoryName": "Other",
       "description": "Chromium-based web browser with built-in AI, security features, and enterprise management.",
+      "url": "https://learn.microsoft.com/deployedge/",
       "svg": "icons/other/edge.svg",
       "png": "icons/other/edge.png"
     },
@@ -1238,6 +1341,7 @@
       "category": "other",
       "categoryName": "Other",
       "description": "AI-powered graphic design app for creating social media posts, invitations, and visual content.",
+      "url": "https://www.microsoft.com/microsoft-365/microsoft-designer",
       "svg": "icons/other/designer.svg",
       "png": "icons/other/designer.png"
     },
@@ -1247,6 +1351,7 @@
       "category": "other",
       "categoryName": "Other",
       "description": "The classic Office brand encompassing the core productivity applications.",
+      "url": "https://www.microsoft.com/microsoft-365/microsoft-office",
       "svg": "icons/other/office.svg",
       "png": "icons/other/office.png"
     },
@@ -1256,6 +1361,7 @@
       "category": "other",
       "categoryName": "Other",
       "description": "Innovation programme connecting startups with enterprise customers to co-develop solutions.",
+      "url": "https://learn.microsoft.com/azure/foundry/what-is-foundry",
       "svg": "icons/other/foundry.svg",
       "png": "icons/other/foundry.png"
     },
@@ -1265,6 +1371,7 @@
       "category": "other",
       "categoryName": "Other",
       "description": "Digital safety app for families with screen time management, content filtering, and location sharing.",
+      "url": "https://www.microsoft.com/microsoft-365/family-safety",
       "svg": "icons/other/family-safety.svg",
       "png": "icons/other/family-safety.png"
     },
@@ -1274,6 +1381,7 @@
       "category": "other",
       "categoryName": "Other",
       "description": "Web portal for managing Microsoft 365 subscriptions, users, groups, and service settings.",
+      "url": "https://learn.microsoft.com/microsoft-365/admin/",
       "svg": "icons/other/admin.svg",
       "png": "icons/other/admin.png"
     }
